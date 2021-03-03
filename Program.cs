@@ -8,6 +8,8 @@ namespace Geometria
         {
             Circulo cir1 = new Circulo(5);
             Console.WriteLine(cir1);
+            Circulo cir2 = new Circulo(7);
+            Console.WriteLine(cir2);
             
             Triangulo tria1 = new Triangulo (4, 5, 8, 2, 9);
             Console.WriteLine(tria1);
